@@ -103,14 +103,6 @@ The system uses a **BLE crowd mesh** for phone-to-phone communication, with **ES
 - 🔎 RAG & LLM Applications
   
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiranjanBorse1&show_icons=true&hide_border=true&include_all_commits=true&theme=default" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanBorse1&layout=compact&hide_border=true&theme=default" height="170" />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
