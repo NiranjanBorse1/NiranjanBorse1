@@ -94,7 +94,7 @@ The system uses a **BLE crowd mesh** for phone-to-phone communication, with **ES
 
 ---
 
-### 💪 [FitLife Gym Management System](https://github.com/NiranjanBorse1/dbms_miniproject)
+### 💪 [FitLife Gym Management System](https://github.com/Aayushsm/gym-management)
 
 A web-based gym management system developed to manage gym operations and member information.
 
