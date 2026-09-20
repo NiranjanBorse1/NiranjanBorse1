@@ -94,10 +94,12 @@ The system uses a **BLE crowd mesh** for phone-to-phone communication, with **ES
 
 ---
 
-### 💪 [FitLife Gym Management System](https://github.com/Aayushsm/gym-management)
+## 📚 Currently Learning
 
-A web-based gym management system developed to manage gym operations and member information.
-
-**Tech:** Python, Flask, MongoDB, HTML, CSS, JavaScript
-
+- 🧩 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Generative AI
+- 🔎 RAG & LLM Applications
+  
 ---
