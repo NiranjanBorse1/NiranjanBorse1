@@ -35,7 +35,7 @@
 ## 🛠️ Skills
 
 **Programming:**  
-Python, C, C++, JavaScript, TypeScript
+Python, C, C++, Java, JavaScript
 
 **📊 Data Science & Machine Learning:**  
 NumPy, Pandas, Matplotlib, Scikit-learn, Machine Learning
