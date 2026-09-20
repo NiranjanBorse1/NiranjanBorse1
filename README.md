@@ -72,7 +72,7 @@ A Machine Learning project for predicting house prices in Gurgaon using housing-
 
 ---
 
-### 📧 AI Email Generator
+### 📧 [AI Email Generator](https://github.com/NiranjanBorse1/ai-email-generator)
 
 An AI-powered web application for generating professional emails based on user requirements.
 
@@ -82,7 +82,7 @@ An AI-powered web application for generating professional emails based on user r
 
 ---
 
-### 🚨 RescueLink — Ongoing
+### 🚨 [RescueLink — Ongoing](https://github.com/kundanjan/RescueLink)
 
 An offline multi-hop distress signaling system designed for disaster zones and remote treks where cellular connectivity may be unavailable.
 
