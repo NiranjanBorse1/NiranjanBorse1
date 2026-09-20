@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  AI & Data Science Student | AI/ML | Data Science | Full-Stack Development
+  AI & Data Science Student | AI/ML | Data Science | Software Development
 </h3>
 
 <p align="center">
