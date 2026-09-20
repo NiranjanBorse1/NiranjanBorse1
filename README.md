@@ -22,3 +22,10 @@
 </p>
 
 ---
+## 👨‍💻 About Me
+
+- 🎓 AI & Data Science student
+- 🤖 Interested in Machine Learning and Data Science
+- 🧠 Exploring Generative AI, RAG and LLM applications
+- 📚 Currently improving my Python and DSA skills
+- 🚀 Building projects to gain practical industry experience
