@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Niranjan Borse! 👋</h1>
 
-<!--
-**NiranjanBorse1/NiranjanBorse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📍 India
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  AI & Data Science Student | AI/ML | Data Science | Full-Stack Development
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Python | Machine Learning | Data Science | Generative AI | RAG | Web Development
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-borse-8449a924a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NiranjanBorse1">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
