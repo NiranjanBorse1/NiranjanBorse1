@@ -29,3 +29,25 @@
 - 🧠 Exploring Generative AI, RAG and LLM applications
 - 📚 Currently improving my Python and DSA skills
 - 🚀 Building projects to gain practical industry experience
+
+---
+
+## 🛠️ Skills
+
+**Programming:**  
+Python, C, C++, JavaScript, TypeScript
+
+**📊 Data Science & Machine Learning:**  
+NumPy, Pandas, Matplotlib, Scikit-learn, Machine Learning
+
+**🤖 Artificial Intelligence:**  
+Generative AI, RAG, LLM Applications
+
+**🌐 Web Development:**  
+HTML, CSS, JavaScript, React, Next.js, Node.js, Django, FastAPI
+
+**🗄️ Databases:**  
+SQL, MongoDB, Supabase
+
+**🔧 Tools:**  
+Git, GitHub, VS Code
